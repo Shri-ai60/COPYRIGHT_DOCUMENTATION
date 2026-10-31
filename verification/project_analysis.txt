@@ -1,0 +1,111 @@
+================================================================================
+GOVERNMENT OF INDIA • COPYRIGHT REGISTRATION DOCUMENTATION PACKAGE
+COMPREHENSIVE FRONTEND PROJECT TECHNICAL ANALYSIS & AUDIT REPORT
+STATUTORY BASIS: INDIAN COPYRIGHT ACT, 1957 & COPYRIGHT RULES, 2013 (AS AMENDED)
+================================================================================
+
+1. EXECUTIVE SUMMARY & SOFTWARE IDENTIFICATION
+--------------------------------------------------------------------------------
+Software Title                 : ARB SoftTech AI Enterprise Voice Calling Agent Platform — Frontend Software
+Application Package Name       : voxora-enterprise-ai-voice
+Platform Version               : 2.0.0 Production
+Statutory Classification       : Computer Software / Literary Work (Section 2(o), Indian Copyright Act, 1957)
+Statutory Definition           : Set of instructions expressed in words, codes, schemes (Section 2(ffc))
+Target Registration Authority  : Copyright Office, DPIIT, Ministry of Commerce and Industry, New Delhi
+Registration Form              : Form XIV (Application for Registration of Copyright)
+Deposit Mandate                : Rule 70(5), Copyright Rules, 2013 (Source Code & Object Code Deposit)
+Primary Application Language   : TypeScript (v5.6.3), JavaScript (ES2022 / ECMAScript Modules), HTML5, CSS3
+Runtime Framework              : React 18.3.1 / Vite 6.0.5 Single Page Application (SPA)
+Hosting & Delivery             : Nginx Reverse Proxy / Docker Container / Static Web Distribution
+
+2. CODEBASE SIZE & STRUCTURAL METRICS
+--------------------------------------------------------------------------------
+Total Source Files (src/)      : 118 files
+Total Source Code Lines (src/) : 23,552 lines
+Total Source Code Size (src/)  : 963,579 bytes (941.00 KB)
+Root Configuration Files       : 10 files (333 lines, 10,126 bytes)
+Total Frontend Codebase        : 128 files (23,885 lines, 950.88 KB)
+
+File Breakdown by Extension:
+  - TypeScript React (.tsx)    : 88 files (19,974 lines, 834.42 KB)
+  - TypeScript (.ts)           : 26 files (2,665 lines, 81.91 KB)
+  - Cascading Style (.css)     : 5 files (971 lines, 26.46 KB)
+  - Project Configs & HTML     : 7 files
+
+3. OBJECT CODE & PRODUCTION COMPILED ASSET AUDIT (dist/)
+--------------------------------------------------------------------------------
+Production Build Tool          : Vite 6.0.5 + TypeScript Compiler (tsc -b && vite build)
+Target JavaScript Standard     : ECMAScript 2020 / Modern Web Standard
+Minification / Tree-Shaking   : Rollup / Terser Minification Enabled
+
+Production Assets:
+  - dist/assets/index-CF2ycynq.js        : 2,047,019 bytes (1,999.04 KB) [Main Production Application Bundle]
+  - dist/assets/index-Cly00IWU.css        :   114,670 bytes (  111.98 KB) [Production Compiled Design System]
+  - dist/assets/html2canvas.esm-QH1iLAAe.js : 202,379 bytes (  197.64 KB) [PDF Rasterizer Distribution Chunk]
+  - dist/assets/index.es-D388Y0sF.js      :   159,715 bytes (  155.97 KB) [Recharts/Vector Charting Chunk]
+  - dist/assets/purify.es-DBIK8olT.js     :    29,400 bytes (   28.71 KB) [DOMPurify Security Sanitizer Chunk]
+  - dist/index.html                       :     1,987 bytes (    1.94 KB) [Production Single Page Entry Point]
+  - dist/favicon.svg                      :       674 bytes (    0.66 KB) [Vector Icon Asset]
+
+4. ARCHITECTURAL & FUNCTIONAL CAPABILITIES AUDIT
+--------------------------------------------------------------------------------
+1. Dual-Layout & Modern Theme Engine:
+   - Classic Enterprise layout vs Modern futuristic UI toggle (LookToggle, LookPage, ModernShell).
+   - Dynamic ambient lighting, particle star simulation, and glassmorphic telemetry cards.
+2. Real-Time Telephony Dashboard:
+   - Live KPI metric cards (Total Calls, Active Calls, Minutes Consumed, Conversion Rate).
+   - Active Call Monitor displaying live channel states, agent-to-caller stream, audio waveforms.
+   - Interactive Audio Player supporting authentic 8kHz PCM WAV telephony stream playback.
+3. AI Voice Agent Studio & Prompt Engineering:
+   - Visual agent configuration drawer with multilingual TTS voice selection (Sarvam AI: Shubh, Ritu, etc.).
+   - Temperature, interruptibility delay, max conversation turns, and barge-in slider controls.
+   - Direct export of comprehensive Agent Dossiers to PDF (jsPDF + autotable).
+4. Lead Intelligence & Qualification Pipeline:
+   - Leads dashboard reflecting turn-by-turn post-call transcript analysis powered by Google Gemini.
+   - Extracted customer intelligence display: Caller Name, Phone, City, Budget, Preferred Callback Time.
+   - Hoverable reasoning chips displaying exact conversational evidence and intent score.
+   - Dual export capability: Client-side dynamic Excel (.xlsx) and server-side generated Excel export.
+5. Conversational Questionnaire Engine:
+   - Step-by-step interactive questionnaire branching editor with dynamic node routing.
+   - Bulk import interfaces supporting Microsoft Excel (.xlsx) and Word (.docx) schemas.
+6. Multi-Tenant Business Administration:
+   - Switchable workspace context via BusinessSelector and BusinessProvider.
+   - Telephony trunk bindings, business profile editing, and business dossier PDF generation.
+7. Outbound PSTN Quick-Dial Dispatcher:
+   - Global QuickDialModal allowing instantaneous dialing to regular mobile/PSTN numbers.
+8. Telephony Carrier & AI Credentials Configuration:
+   - Real-time settings console for Sarvam AI, VoBiz Carrier Trunks, Twilio Trunks, and Gemini APIs.
+
+5. AUTHORSHIP, AI-ASSISTANCE & COPYRIGHT ELIGIBILITY ANALYSIS
+--------------------------------------------------------------------------------
+A. Statutory Basis under Indian Copyright Act, 1957:
+   - Section 2(d)(i) requires an 'author' of a literary work to be a natural human person.
+   - Section 17 governs the first owner of copyright (Work Made for Hire in employment or contract).
+   - The Indian Copyright Office does not grant authorship to autonomous artificial intelligence systems.
+
+B. Identifiable Human Contributions:
+   - High-level architectural specification, domain data schemas, and state management hierarchy.
+   - Custom telephony integration logic (PSTN call flows, barge-in audio playback, dual-theme engine).
+   - Selection, curation, sequence, and structural arrangement of UI components and user workflows.
+   - Prompt engineering designs, validation rules, business logic, and lead qualification thresholds.
+   - Verification, code auditing, debugging, integration testing, and production build engineering.
+
+C. AI-Assisted Development Disclosure (Google Antigravity):
+   - The software was authored with the computational assistance of Google Antigravity, an advanced
+     agentic AI coding assistant.
+   - Google Antigravity was directed by human engineers via natural language instructions, architecture
+     blueprints, and iterative prompts to generate code scaffolding, boilerplate components, and
+     syntax adaptations.
+   - The AI tool operated strictly as a sophisticated development instrument under human supervision.
+   - Copyright protection is claimed exclusively over the resulting original human expression,
+     creative selection, coordination, arrangement, and custom programming logic.
+
+D. Third-Party Open Source Carve-Outs:
+   - Contains 18 production dependencies and 9 development dependencies licensed under permissive
+     open-source licenses (MIT, Apache 2.0, BSD-3-Clause).
+   - Third-party packages (React, Vite, Recharts, Lucide, Tailwind, GSAP, jsPDF, SheetJS, PapaParse, etc.)
+     are expressly disclaimed from the proprietary copyright claim, in strict compliance with
+     Section 52 of the Indian Copyright Act, 1957.
+================================================================================
+END OF TECHNICAL ANALYSIS REPORT
+================================================================================

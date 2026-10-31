@@ -1,0 +1,87 @@
+================================================================================
+GOVERNMENT OF INDIA • COPYRIGHT REGISTRATION (FORM XIV)
+MISSING APPLICANT & AUTHOR INFORMATION REQUIRING HUMAN INPUT
+STATUTORY REFERENCE: COPYRIGHT RULES, 2013 • STATEMENT OF PARTICULARS (SoP)
+================================================================================
+
+The following itemized details cannot be determined from the repository files alone
+and MUST be completed by the human applicant/counsel prior to final submission of
+Form XIV at the Indian Copyright Office (https://copyright.gov.in).
+
+--------------------------------------------------------------------------------
+1. HUMAN AUTHOR DETAILS (MANDATORY UNDER SECTION 2(d) & 17)
+--------------------------------------------------------------------------------
+Under Indian Copyright Law, an Artificial Intelligence tool (such as Google Antigravity)
+CANNOT be recognized or registered as an author. The author must be a natural human being.
+
+[ ] Author 1 - Full Legal Name   : _________________________________________________
+[ ] Author 1 - Residential Address: _________________________________________________
+[ ] Author 1 - Nationality        : _________________________________________________
+[ ] Author 1 - Country of Residence: ________________________________________________
+[ ] Author 1 - PAN / Aadhaar (ID): _________________________________________________
+[ ] Author 1 - Role in Creation   : [e.g. Lead Frontend Architect / Software Engineer]
+[ ] If Multiple Authors, Repeat for Authors 2, 3, etc.
+
+--------------------------------------------------------------------------------
+2. APPLICANT / PROPOSED COPYRIGHT OWNER DETAILS (STATEMENT OF PARTICULARS COL 2)
+--------------------------------------------------------------------------------
+[ ] Name of Applicant Entity     : _________________________________________________
+    (e.g., ARB SoftTech Pvt. Ltd. / Proprietorship Name / Individual Applicant)
+[ ] Legal Status of Applicant    : [Individual / Private Limited / LLP / Partnership]
+[ ] Registered Office Address    : _________________________________________________
+[ ] State & PIN Code             : _________________________________________________
+[ ] Corporate Identity No. (CIN) : _________________________________________________
+[ ] GSTIN / Business PAN         : _________________________________________________
+[ ] Authorized Signatory Name    : _________________________________________________
+[ ] Designation of Signatory     : [Director / Managing Partner / Proprietor]
+[ ] Official Contact Email       : _________________________________________________
+[ ] Official Contact Mobile Phone: _________________________________________________
+
+--------------------------------------------------------------------------------
+3. NATURE OF APPLICANT'S INTEREST (STATEMENT OF PARTICULARS COL 3)
+--------------------------------------------------------------------------------
+Select one of the statutory ownership options:
+[ ] OPTION A: Author is the Applicant (Individual Ownership).
+[ ] OPTION B: Work Made for Hire under Section 17(c) of Copyright Act, 1957.
+    (Author created the software in the course of employment under a contract of service).
+[ ] OPTION C: Ownership acquired through Assignment Deed under Section 19.
+    (Formal Copyright Assignment Deed executed between Author and Applicant Company).
+
+Mandatory Attachments for Option B/C:
+[ ] Executed No Objection Certificate (NOC) from Author to Applicant Entity.
+[ ] Certified true copy of Employment Agreement OR Assignment Deed.
+
+--------------------------------------------------------------------------------
+4. CHRONOLOGICAL DEVELOPMENT DATES (STATEMENT OF PARTICULARS COL 8 & 9)
+--------------------------------------------------------------------------------
+[ ] Date of Commencement of Code : DD / MM / YYYY  [e.g. 01/08/2026]
+[ ] Date of Completion of Code   : DD / MM / YYYY  [e.g. 30/10/2026]
+[ ] Publication Status           : [ ] Published   [ ] Unpublished
+    - If Published:
+      * Date of First Publication: DD / MM / YYYY
+      * Country of First Pub.    : India
+      * Name & Address of Pub.   : _________________________________________________
+    - If Unpublished:
+      * State year of creation   : 2026
+      * Location of creation     : _________________________________________________
+
+--------------------------------------------------------------------------------
+5. POWER OF ATTORNEY / LEGAL REPRESENTATION (IF APPLICABLE)
+--------------------------------------------------------------------------------
+[ ] Will the application be filed directly by the applicant or via an IP Advocate/Agent?
+    - If Advocate/Agent:
+      * Advocate / Agent Name    : _________________________________________________
+      * Bar Council Enrolment No.: _________________________________________________
+      * Form XIV Vakalatnama/POA : Executed and stamped on requisite Non-Judicial Stamp Paper.
+
+--------------------------------------------------------------------------------
+6. GOVERNMENT STATUTORY FEE PAYMENT (SCHEDULE II, COPYRIGHT RULES, 2013)
+--------------------------------------------------------------------------------
+[ ] Statutory Fee for Literary / Software Work:
+    - ₹500 for Individual / Non-commercial applicant
+    - ₹2,000 for Corporate / Company / Commercial applicant
+[ ] Payment mode: Online Bharatkosh gateway via copyright.gov.in.
+
+================================================================================
+END OF MISSING INFORMATION CHECKLIST
+================================================================================
